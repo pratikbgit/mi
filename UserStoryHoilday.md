@@ -1,7 +1,3 @@
-Here’s a tailored version of the GitHub ticket format for your holiday package tourism business. It reflects how user stories can align with customer-centric goals and business needs.
-
----
-
 ### **User Story**
 
 **As a** [traveler/holiday package customer],  
