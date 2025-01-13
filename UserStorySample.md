@@ -1,7 +1,3 @@
-Here’s a suggested GitHub issue template for a user story. It follows the typical format of user stories used in Agile methodologies, complete with acceptance criteria and additional details to provide clarity for the development team.
-
----
-
 ### **User Story**
 
 **As a** [role],  
@@ -9,7 +5,6 @@ Here’s a suggested GitHub issue template for a user story. It follows the typi
 **so that** [reason or benefit].
 
 ---
-
 ### **Acceptance Criteria**
 
 **Given** [initial condition or context],  
@@ -38,7 +33,3 @@ Here’s a suggested GitHub issue template for a user story. It follows the typi
 ### **Notes**
 
 Add any other relevant information or discussions here.
-
----
-
-Let me know if you'd like adjustments to better fit your workflow or project management style!
